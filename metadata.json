@@ -1,0 +1,5 @@
+{
+  "name": "StreamGate",
+  "description": "A random video player application that demonstrates content gating after a specific duration.",
+  "requestFramePermissions": []
+}
